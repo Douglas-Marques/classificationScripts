@@ -1,2 +1,2 @@
 # classificationScripts
-## Classifications models. Basics Machine Learning algorithms. Supervisioned classification.
+## Classifications models. Basics Machine Learning algorithms. Supervised classification.
